@@ -3,6 +3,11 @@ books
 
 Books I need to read
 
+Currently Reading
+
+* None
+
+
 Technical
 
 * Code Complete (2nd edition) by Steve McConnell
@@ -99,3 +104,7 @@ Technical
 * No Bugs! by David Thielen
 * Rework by Jason Freid and DHH
 * JUnit in Action
+
+Non Technical
+
+* India - John Keay
