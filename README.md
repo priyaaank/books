@@ -10,7 +10,7 @@ Currently Reading
 
 Technical
 
-* The Code Book
+* The Code Book - Simon Singh
 * Code Complete (2nd edition) by Steve McConnell
 * The Pragmatic Programmer
 * Structure and Interpretation of Computer Programs
