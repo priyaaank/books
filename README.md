@@ -11,6 +11,8 @@ Currently Reading
 Technical
 
 * The Code Book - Simon Singh
+* Growing Object-Oriented Software Guided by Tests
+* Implementation Patterns - Kent Beck
 * Code Complete (2nd edition) by Steve McConnell
 * The Pragmatic Programmer
 * Structure and Interpretation of Computer Programs
