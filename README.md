@@ -1,16 +1,12 @@
-books
-=====
+**Books I need to read**
 
-Books I need to read
-
-Currently Reading
-
-* None
-
-
-Technical
+**Currently Reading**
 
 * The Code Book - Simon Singh
+* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+
+**Technical**
+
 * Growing Object-Oriented Software Guided by Tests
 * Implementation Patterns - Kent Beck
 * Code Complete (2nd edition) by Steve McConnell
@@ -24,7 +20,6 @@ Technical
 * The Art of Computer Programming by Donald Knuth
 * Compilers: Principles, Techniques and Tools by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
 * Gödel, Escher, Bach by Douglas Hofstadter
-* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * Effective C++
 * More Effective C++
 * CODE by Charles Petzold
@@ -108,6 +103,6 @@ Technical
 * Rework by Jason Freid and DHH
 * JUnit in Action
 
-Non Technical
+**Non Technical**
 
 * India - John Keay
