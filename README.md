@@ -9,6 +9,10 @@
 * [Story of your life and other](http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)
 * [Inferno](http://www.goodreads.com/book/show/17212231-inferno)
 
+**Finished reading in 2017**
+
+* [Animal Farm](http://www.goodreads.com/book/show/7613.Animal_Farm)
+
 **Currently Reading**
 
 * [The Medici Effect: What elephants and epidemics can teach us about innovation](http://www.goodreads.com/book/show/255132.The_Medici_Effect)
