@@ -1,5 +1,3 @@
-**Books I need to read**
-
 **Finished reading in 2015**
 
 * [The Code Book - Simon Singh](http://www.goodreads.com/book/show/17994.The_Code_Book)
